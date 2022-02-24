@@ -6,7 +6,7 @@ public class Gambler {
     int gambler_With_Money= 100; //Starting money everyday 100
     int gambler_Per_Bet= 1 ;//money per bet = 1
 
-        System.out.println("Welcome to Gambler game");
+        System.out.print("Welcome to Gambler game");
     }
 
 }
